@@ -131,14 +131,14 @@ hr.q-divider{
   padding: 0;
 }
 
-#add-guest .guest {
+#add-guest li {
   list-style: none;
   margin: 0;
   padding: 4px;
   text-align: left;
 }
 
-#add-guest .guest:nth-child(even) {
+#add-guest li:nth-child(even) {
   background: tomato;
 }
 
@@ -160,14 +160,14 @@ hr.q-divider{
   padding: 0;
 }
 
-#add-guest-bonus .guest {
+#add-guest-bonus li {
   list-style: none;
   margin: 0;
   padding: 4px;
   text-align: left;
 }
 
-#add-guest-bonus .guest:nth-child(even) {
+#add-guest-bonus li:nth-child(even) {
   background: tomato;
 }
 
